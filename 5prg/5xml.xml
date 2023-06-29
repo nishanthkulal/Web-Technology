@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+<students>
+<student>
+<sname>Nishanth</sname>
+<usn>4jk20cs032</usn>
+<collage>AJIET</collage>
+<branch>CSE</branch>
+<yoj>2020</yoj>
+<email>nishanth@gmail.com</email>
+</student>
+<student>
+<sname>Nishanth</sname>
+<usn>4jk20cs032</usn>
+<collage>AJIET</collage>
+<branch>CSE</branch>
+<yoj>2020</yoj>
+<email>nishanth@gmail.com</email>
+</student>
+<student>
+<sname>Nishanth</sname>
+<usn>4jk20cs032</usn>
+<collage>AJIET</collage>
+<branch>CSE</branch>
+<yoj>2020</yoj>
+<email>nishanth@gmail.com</email>
+</student>
+</students>

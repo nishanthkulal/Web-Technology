@@ -1,0 +1,92 @@
+students{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+student{
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+
+
+
+sname{
+    
+    display: block;
+    font-size: 15pt;
+    text-transform: uppercase;
+    color: blue;
+
+}
+
+usn::before{
+    content: "USN:";
+    font-size: 14pt;
+    font-weight: bold;
+
+}
+usn{
+    
+    display: block;
+    font-size: 14pt;
+    margin-left: 20pt;
+    /* text-transform: uppercase; */
+    color: blueviolet;
+}
+collage::before{
+    content: "COLLAGE:";
+    font-size: 14pt;
+    font-weight: bold;
+
+}
+collage{
+    display: block;
+    font-size: 14pt;
+    margin-left: 20pt;
+    /* text-transform: uppercase; */
+    color: blueviolet
+
+}
+branch::before{
+    content: "BRANCH:";
+    font-size: 14pt;
+    font-weight: bold;
+
+}
+branch{
+    display: block;
+    font-size: 14pt;
+    margin-left: 20pt;
+    /* text-transform: uppercase; */
+    color: blueviolet
+    
+}
+yoj::before{
+    content: "YEAR OF JOINIG:";
+    font-size: 14pt;
+    font-weight: bold;
+
+}
+yoj{
+    display: block;
+    font-size: 14pt;
+    margin-left: 20pt;
+    /* text-transform: uppercase; */
+    color: blueviolet
+
+}
+email::before{
+    content: "EMAIL:";
+    font-size: 14pt;
+    font-weight: bold;
+
+}
+email{
+    display: block;
+    font-size: 14pt;
+    margin-left: 20pt;
+    /* text-transform: uppercase; */
+    color: blueviolet
+
+}
