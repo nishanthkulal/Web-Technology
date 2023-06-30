@@ -16,7 +16,7 @@ foreach($states1 as $state)
 //states that begins with k and ends with s
 foreach($states1 as $state)
 {
-    if(preg_match('/^k.*s$/',($state))){
+    if(preg_match('/^k.*s$/i',($state))){
         $statesArray[$i]=($state);
         $i =$i+1;
         print"\n the states that begins with k and ends with s:".$state;
